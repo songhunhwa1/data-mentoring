@@ -83,7 +83,7 @@ def main():
             - https://www.etnews.com/20210818000196    
             """,
         },
-        {"name": "X", 
+        {"name": "June Park", 
              "job_title": "X", 
              "year": "X",
              "company": "X", 
